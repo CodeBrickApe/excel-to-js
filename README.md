@@ -17,6 +17,11 @@
 
 ![](./img/8205304.png)
 
-这是最终生成的 JS 文件
+## 开始使用
+1. git clone https://github.com/luhaizhou/excel-to-js.git
+2. cd excel-to-js
+3. npm install
+4. node app.js
+## 最终生成的 JS 文件
 
 ![](./img/8205330.png)
